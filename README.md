@@ -20,6 +20,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=kimsuyeon0916&theme=default&hide_border=false&include_all_commits=false&count_private=true) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsuyeon_0916)](https://solved.ac/kimsuyeon_0916)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsuyeon_0916)](https://solved.ac/kimsuyeon_0916) ![](https://github-readme-stats.vercel.app/api?username=kimsuyeon0916&theme=vue&hide_border=true&include_all_commits=false&count_private=true)
 
